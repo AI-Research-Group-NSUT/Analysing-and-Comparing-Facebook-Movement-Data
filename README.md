@@ -9,12 +9,12 @@ Vinamra Harkar
 Supervision & Support: Prof. Luo Wei, National University of Singapore
 
 ### Introduction
-This project implements various models to predict daily COVID-19 cases primarily using spatial data provided by Facebook's (Meta's) Data For Good program. Various Machine learning and Deep learning models are compared on the basis of the accuracy of predicted values. This project also justifies the importance of several features such as daily COVID testing statistics and daily vaccination statistics. We intent to evaluate union and state governments' policy decisions around mobility restrictions and lockdowns based on our COVID-19 spread prediction results and found a strong significance of features like daily testing and vaccination statistics for better performance.
+This project implements various models to predict daily COVID-19 cases primarily using spatial data provided by Facebook's (Meta's) Data For Good program. Various Machine learning and Deep learning models are compared on the basis of the accuracy of predicted values. This project also justifies the importance of several features such as daily COVID testing statistics and daily vaccination statistics. We intent to evaluate union and state governments' policy decisions around mobility restrictions and lockdowns in Maharashtra, based on our COVID-19 spread prediction results. We found a strong significance of features like daily testing and vaccination statistics for better performance.
 
 ### Data
 Population Movement and Population Density data was taken from Facebook (Meta) Data For Good Portal (https://dataforgood.facebook.com/) and the COVID-19 data was taken from (https://www.covid19india.org/).
 
-### Results
+### Results for Maharashtra state
 
 | Model                    | Feature/s                  | RMSE    |
 | :-----------------       | :------------------------- | -------:|
